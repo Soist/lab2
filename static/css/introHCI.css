@@ -1,8 +1,8 @@
 .project{
-     margin-left: 1px;
-     background-color: #ab1234;
-     padding:1px;
-     width:1px;
+     margin-left: 20px;
+     background-color: #eeeeee;
+     padding: 20px;
+     width: 525px;
 }
 
 /* applies to anything of class "example-class-selector" */
